@@ -1,5 +1,7 @@
 # tinI2P
 
+[![Coverage Status](https://coveralls.io/repos/bitbucket/tini2p/tini2p/badge.svg)](https://coveralls.io/bitbucket/tini2p/tini2p)
+
 tini2p is designed to be a header-only, minimal, modular C++ I2P libary.
 
 See the [design](./DESIGN.md) document for details on design decisions and project goals.
@@ -129,7 +131,7 @@ Since RedDSA may also be needed for key blinding, Ed25519ph may be extraneous an
 
 ### Donate
 
-For those beautiful spirits that want to support the cause:
+For those beautiful beings that want to support the cause:
 
 XMR:
 
